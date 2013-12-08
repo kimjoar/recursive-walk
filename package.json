@@ -1,0 +1,24 @@
+{
+  "name": "recursive-walk",
+  "version": "0.0.1",
+  "description": "Recursively walk through a structure, invoking a callback for each item",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "~1.8.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.15.1"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kjbekkelund/recursive-walk.git"
+  },
+  "author": "Kim Joar Bekkelund <kjbekkelund@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kjbekkelund/recursive-walk/issues"
+  }
+}
