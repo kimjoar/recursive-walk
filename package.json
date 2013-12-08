@@ -1,6 +1,6 @@
 {
   "name": "recursive-walk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Recursively walk through a structure, invoking a callback for each item",
   "main": "index.js",
   "dependencies": {

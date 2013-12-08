@@ -1,6 +1,4 @@
-module.exports = function(items, key, callback) {
-    walk(items, key, callback);
-}
+module.exports = walk;
 
 function walk(items, key, callback) {
     items.forEach(function(item) {
